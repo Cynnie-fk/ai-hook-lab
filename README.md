@@ -42,7 +42,7 @@ cp .env.local.example .env.local
 |------|------|------|
 | `AI_API_KEY` | OpenAI兼容API的密钥 | ✅ |
 | `AI_BASE_URL` | API基础URL（支持任意OpenAI兼容服务） | ✅ |
-| `AI_MODEL` | 模型名称（如 gpt-4o、deepseek-chat） | ✅ |
+| `AI_MODEL` | 模型名称（如 gpt-4o、your-model-name） | ✅ |
 
 ### 3. 启动开发服务器
 
